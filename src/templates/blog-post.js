@@ -11,11 +11,12 @@ class BlogPostTemplate extends React.Component {
     const post = this.props.data.markdownRemark
     const siteTitle = this.props.data.site.siteMetadata.title
     const { previous, next } = this.props.pageContext
+    const image = __dirname + post.frontmatter.image
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <SEO title={post.frontmatter.title} description={post.excerpt} />
-        <h1>{post.frontmatter.title}</h1>
+        <SEO title={post.frontmatter.title} description={post.excerpt} image={image}  />
+        <h1>{image}{post.frontmatter.title}</h1>
         <p
           style={{
             ...scale(-1 / 5),
@@ -80,7 +81,13 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
+        tags
+        image
       }
     }
   }
 `
+
+// frontmatter内に新しいのを追加した際にはbuildしなおさないといけない
+// その際developは止めておくこと
+// あとmdに追加しないとこける
