@@ -1,6 +1,9 @@
 ---
 title: そもそもなぜブログをはじめるか
 date: '2019-02-27T17:37:03.284Z'
+path: AAA
+image: info.jpg
+tags: qqq
 ---
 なんとなく。
 
