@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "きゃりかつGatsbyブログ",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "きゃりかつGatsbyブログ",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "塙克樹 <katsuki.hanawa.job@gmail.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
@@ -16,7 +16,7 @@
     "gatsby-plugin-offline": "^2.0.5",
     "gatsby-plugin-react-helmet": "^3.0.0",
     "gatsby-plugin-sharp": "^2.0.6",
-    "gatsby-plugin-typography": "^2.2.0",
+    "gatsby-plugin-typography": "^2.2.4",
     "gatsby-remark-copy-linked-files": "^2.0.5",
     "gatsby-remark-images": "^2.0.4",
     "gatsby-remark-prismjs": "^3.0.0",
@@ -29,10 +29,10 @@
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
     "react-helmet": "^5.2.0",
-    "react-typography": "^0.16.13",
+    "react-typography": "^0.16.18",
     "typeface-merriweather": "0.0.43",
     "typeface-montserrat": "0.0.43",
-    "typography": "^0.16.17",
+    "typography": "^0.16.18",
     "typography-theme-wordpress-2016": "^0.15.10"
   },
   "devDependencies": {
@@ -40,7 +40,7 @@
     "eslint-plugin-react": "^7.11.1",
     "prettier": "^1.14.2"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://github.com/hungrykirby/mysite180102#readme",
   "keywords": [
     "gatsby"
   ],
@@ -48,7 +48,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/hungrykirby/mysite180102.git"
   },
   "scripts": {
     "dev": "gatsby develop",
