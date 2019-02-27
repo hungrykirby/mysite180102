@@ -1,21 +1,15 @@
 ---
-title: ようこそ世界へ
+title: そもそもなぜブログをはじめるか
 date: '2019-02-27T17:37:03.284Z'
 ---
+なんとなく。
 
-This is my first post on my new fake blog! How exciting!
+![やあ世界！の画像](./helloworld.jpg)
 
-I'm sure I'll write a lot more interesting things in the future.
+何か継続したいなーと思ったときに、ブログがいいかなと考えた。
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+[ほっしーのメンタルハック](https://hr-diary.com/)
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+といううつ病経験者ほっしーさんに感化された部分はある。
 
-![Chinese Salty Egg](./salty_egg.jpg)
+あまり有益な情報を発信できるとは思わないけど、何かをこつこつやった経験は、今の自分にも必要かなと思った。
