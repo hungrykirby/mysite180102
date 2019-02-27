@@ -27,6 +27,10 @@ function SEO({ description, lang, meta, keywords, title }) {
                 content: title,
               },
               {
+                property: `og:image`,
+                content: 'https://www.hanakatsu-gatsbyjs-blog.work/static/b44d5025d0b9e7c63263f265c07bae4d/d1924/helloworld.jpg',
+              },
+              {
                 property: `og:description`,
                 content: metaDescription,
               },
@@ -68,7 +72,7 @@ function SEO({ description, lang, meta, keywords, title }) {
 }
 
 SEO.defaultProps = {
-  lang: `en`,
+  lang: `ja`,
   meta: [],
   keywords: [],
 }
