@@ -1,9 +1,9 @@
 {
-  "name": "きゃりかつGatsbyブログ",
+  "name": "hana-katsu-gatsbyjs-blog",
   "private": true,
   "description": "きゃりかつGatsbyブログ",
   "version": "0.1.0",
-  "author": "塙克樹 <katsuki.hanawa.job@gmail.com>",
+  "author": "Katsuki Hanawa <katsuki.hanawa.job@gmail.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
