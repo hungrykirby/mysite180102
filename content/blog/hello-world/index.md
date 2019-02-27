@@ -1,6 +1,6 @@
 ---
 title: ようこそ世界へ
-date: '2015-05-01T22:12:03.284Z'
+date: '2019-02-27T17:37:03.284Z'
 ---
 
 This is my first post on my new fake blog! How exciting!
