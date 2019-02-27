@@ -3,7 +3,7 @@ module.exports = {
     title: `きゃりかつGatsbyブログ`,
     author: `塙克樹`,
     description: `GatsbyJSで作ったブログサイト：今後使うかはわからない`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `http://www.hanakatsu-gatsbyjs-blog.work/`,
     social: {
       twitter: `hungrykirby`,
     },
