@@ -2,7 +2,7 @@
 title: 何を発信するのか
 date: '2019-02-27T20:08:03.284Z'
 path: AAA
-image: what-information/info.jpg
+image: info.jpg
 tags: qqqq
 ---
 とくに決めていない。

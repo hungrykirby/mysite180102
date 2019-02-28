@@ -11,7 +11,9 @@ class BlogPostTemplate extends React.Component {
     const post = this.props.data.markdownRemark
     const siteTitle = this.props.data.site.siteMetadata.title
     const { previous, next } = this.props.pageContext
-    const image = 'https://www.hanakatsu-gatsbyjs-blog.work/' + post.frontmatter.image
+    const image = post.frontmatter.image
+
+console.log(post.fields);
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -83,6 +85,9 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         tags
         image
+      }
+      fields {
+        slug
       }
     }
   }
