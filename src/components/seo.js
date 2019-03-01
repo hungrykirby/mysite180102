@@ -21,7 +21,7 @@ function SEO({ description, lang, meta, keywords, title, image, url }) {
             meta={[
               {
                 name: `google-site-verification`,
-                content: process.env.GOOGLE_SITE_V || `none`
+                content: process.env.GOOGLE_SITE_V || `_ffG1yi4BM3nPzSU016xg30nwuDupQZ0JXxzu_t7W9Q`
               },
               {
                 name: `description`,
