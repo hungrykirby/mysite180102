@@ -36,7 +36,7 @@ tags: programming
 
 そこから`JavaScript`、`html`、`CSS`を学んだ。
 
-同時に`Processing`ではできることが限定されるので、`C++`ベースの`openFrameworks`をがっつりいじった。
+同時に`Processing`ではできることが限定される(処理速度などの問題)ので、`C++`ベースの`openFrameworks`をがっつりいじった。
 
 ハードウェアも楽しかったので、`Arduino`もやっていた。
 
