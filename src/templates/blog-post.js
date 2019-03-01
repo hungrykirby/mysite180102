@@ -11,9 +11,7 @@ class BlogPostTemplate extends React.Component {
     const post = this.props.data.markdownRemark
     const siteTitle = this.props.data.site.siteMetadata.title
     const { previous, next } = this.props.pageContext
-    const image = post.frontmatter.image
-
-console.log(post.fields);
+    //const image = 'https://www.hanakatsu-gatsbyjs-blog.work/static/' +  + '/' + post.frontmatter.image
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
