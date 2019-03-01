@@ -8,6 +8,11 @@ Wordpress2016.overrideThemeStyles = () => {
     },
     'ul li': {
       marginLeft: `16px`
+    },
+    'code': {
+      background: `#eee`,
+      padding: `5px;`,
+      borderRadius: `5px;`
     }
   }
 }
