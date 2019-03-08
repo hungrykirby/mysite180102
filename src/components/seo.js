@@ -10,7 +10,7 @@ function SEO({ description, lang, meta, keywords, title, image, url }) {
       render={data => {
         const metaDescription =
           description || data.site.siteMetadata.description
-        const ogimage = image || 'profile-pic-ae1a191edad1088aec22dc03906dca4c.jpg'
+        const ogimage = 'https://www.hanakatsu-gatsbyjs-blog.work/static' + (image || 'profile-pic-ae1a191edad1088aec22dc03906dca4c.jpg')
         return (
           <Helmet
             htmlAttributes={{
@@ -37,7 +37,7 @@ function SEO({ description, lang, meta, keywords, title, image, url }) {
               },
               {
                 property: `og:image`,
-                content: 'https://www.hanakatsu-gatsbyjs-blog.work/static/' + ogimage,
+                content: ogimage,
               },
               {
                 property: `og:description`,
