@@ -2,7 +2,7 @@
 title: そもそもなぜブログをはじめるか
 date: '2019-02-27T17:37:03.284Z'
 path: AAA
-image: info.jpg
+image: helloworld-b44d5025d0b9e7c63263f265c07bae4d.jpg
 tags: qqq
 ---
 なんとなく。

@@ -2,7 +2,7 @@
 title: 自己紹介
 date: '2019-02-28T21:47:03.284Z'
 path: self
-image: self.jpg
+image: self-f5bdb3b0ddecf3ab02ebcd682ecb985a.jpg
 tags: qqq
 ---
 
