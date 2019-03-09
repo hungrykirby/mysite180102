@@ -11,7 +11,7 @@ function SEO({ description, lang, meta, keywords, title, image, url }) {
         const metaDescription =
           description || data.site.siteMetadata.description
         //const ogimage = image
-        const ogimage = 'https://www.hanakatsu-gatsbyjs-blog.work' + (image || 'ae1a191edad1088aec22dc03906dca4c/a795d/profile-pic.jpg')
+        const ogimage = 'https://www.hanakatsu-gatsbyjs-blog.work' + (image || '/static/ae1a191edad1088aec22dc03906dca4c/a795d/profile-pic.jpg')
         return (
           <Helmet
             htmlAttributes={{
