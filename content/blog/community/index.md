@@ -2,7 +2,7 @@
 title: メンタルヘルスコミュニティ
 date: '2019-03-04T23:10:03.284Z'
 path: community
-image: community.jpg
+image: ./community.jpg
 tags: qqq
 ---
 実世界やネット世界問にはメンタルヘルスのコミュニティがある。

@@ -2,7 +2,7 @@
 title: うつの寛解とその後
 date: '2019-03-05T23:10:03.284Z'
 path: remission
-image: remission.jpg
+image: ./remission.jpg
 tags: qqq
 ---
 前回の記事で、メンタルヘルスコミュニティはだれが運営したらいいかという話をした。

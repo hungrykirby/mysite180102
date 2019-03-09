@@ -2,7 +2,7 @@
 title: ひなまつり
 date: '2019-03-03T23:54:03.284Z'
 path: hina
-image: hina.jpg
+image: ./hina.jpg
 tags: qqq
 ---
 雑記だが、「社会人一年目、難しいけどがんばるぞ！」と思っていたが、なんとなく途中から乱れてしまった。

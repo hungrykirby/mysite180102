@@ -13,7 +13,7 @@ class BlogPostTemplate extends React.Component {
     const { previous, next } = this.props.pageContext
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <SEO title={post.frontmatter.title} description={post.excerpt} image={post.frontmatter.image}  />
+        <SEO title={post.frontmatter.title} description={post.excerpt} image={post.frontmatter.image.childImageSharp.sizes.src}  />
         <h1>{post.frontmatter.title}</h1>
         <p
           style={{
@@ -80,7 +80,13 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         tags
-        image
+        image{
+          childImageSharp{
+            sizes(maxWidth: 1140, maxHeight: 420) {
+              ...GatsbyImageSharpSizes_withWebp
+            }
+          }
+        }
       }
       fields {
         slug

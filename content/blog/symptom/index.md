@@ -2,7 +2,7 @@
 title: 私の抑うつ症状
 date: '2019-03-02T23:48:03.284Z'
 path: sympton
-image: sympton.jpg
+image: ./sympton.jpg
 tags: qqq
 ---
 

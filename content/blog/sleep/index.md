@@ -2,7 +2,7 @@
 title: 睡眠の質
 date: '2019-03-09T06:38:03.284Z'
 path: sleep
-image: sleep.jpg
+image: ./sleep.jpg
 tags: sleep
 ---
 私はかなりの睡眠障害なので、睡眠はかなり乱れる。

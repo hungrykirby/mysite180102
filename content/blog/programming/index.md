@@ -2,7 +2,7 @@
 title: プログラミングの出会いとその後
 date: '2019-03-01T23:47:06.284Z'
 path: programming
-image: programming.jpg
+image: ./programming.jpg
 tags: programming
 ---
 
