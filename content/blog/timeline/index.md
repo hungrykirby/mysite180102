@@ -2,7 +2,7 @@
 title: タイムラインはどう表示するのがきれいなのか
 date: '2019-03-28T23:51:06.284Z'
 path: timeline
-image: ./hashtag2.gif
+image: ./timeline.jpg
 tags: timeline
 ---
 
