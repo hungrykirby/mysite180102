@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `きゃりかつGatsbyブログ`,
     author: `塙克樹`,
-    description: `GatsbyJSで作ったブログサイト：今後使うかはわからない`,
+    description: `塙克樹がGatsbyJSで作ったブログサイト：なんとなく日々の雑多なことを記載していく予定。少しずつ機能も追加していくつもり。今後もよろしくお願いします。`,
     siteUrl: `http://www.hanakatsu-gatsbyjs-blog.work/`,
     social: {
       twitter: `hungrykirby`,
